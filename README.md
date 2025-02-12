@@ -1,6 +1,6 @@
 # 🚗 **EV Adoption Trends in Washington**
 
-This project analyzes **electric vehicle (EV) adoption trends in Washington** between the years 2010-2024, using real-world data from the official Washington State Open Data Portal ([link to data source](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data)) using **data cleaning in Python and visualization in Tableau**. The dataset includes electric vehicle registrations, manufacturer market share, and growth trends.
+This project analyzes **electric vehicle (EV) adoption trends in Washington** between the years 2010-2024, using real-world data from the official Washington State Open Data Portal ([link to data source](https://catalog.data.gov/dataset/electric-vehicle-population-data)) using **data cleaning in Python and visualization in Tableau**. The dataset includes electric vehicle registrations, manufacturer market share, and growth trends.
 
 
 ## 📊 **Tableau Dashboard**
