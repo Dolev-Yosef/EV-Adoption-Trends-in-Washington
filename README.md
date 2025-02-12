@@ -11,7 +11,7 @@ Unlock the story behind the data with this interactive dashboard. Use the filter
 
 ---
 
-## 🧹 [**Python Data Cleaning**]()
+## 🧹 [**Python Data Cleaning**](Electric_Vehicle_Data_Cleaning.ipynb) 
 
 The data cleaning process involved loading the dataset, handling missing values, and removing irrelevant columns to ensure data accuracy and consistency. Key transformations included cleaning and formatting categorical data and preparing the dataset for visualization. The final cleaned dataset was saved as a CSV file for further analysis in Tableau.
 
